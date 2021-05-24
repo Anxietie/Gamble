@@ -8,4 +8,5 @@ TO PLAY:
 1) Open CMD Prompt
 2) Navigate to the directory of the .jar file. (EX: .jar file in "C:\Users\user\Downloads", type "cd C:\Users\user\Downloads")
 3) Type "java -jar Gamble-jar"
+---------------
 HAVE FUN!
